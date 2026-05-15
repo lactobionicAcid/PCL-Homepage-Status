@@ -1,19 +1,75 @@
-# Change these first
 owner: lactobionicAcid
 repo: PCL-Homepage-Status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Minecraft 新闻
+    url: https://mcnews.meloong.com
+    headers: 
+      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://000.pcl2.server/"
+
+  - name: 每日整合包推荐
+    url: https://pclsub.sodamc.com/
+    headers: 
+      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://000.pcl2.server/"
+
+  - name: Minecraft 皮肤推荐
+    url: https://forgepixel.com/pcl_sub_file
+    headers: 
+      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://000.pcl2.server/"
+
+  - name: OpenBMCLAPI 仪表盘 Lite
+    url: https://pcl-bmcl.milu.ink/
+    headers: 
+      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://000.pcl2.server/"
+
+  - name: PCL 新功能说明书
+    url: https://raw.gitcode.com/WForst-Breeze/WhatsNewPCL/raw/main/Custom.xaml
+    headers: 
+      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://000.pcl2.server/"
+
+  - name: 杂志主页
+    url: http://118.195.192.193:26995/d/magazine-homepage-pcl/Custom.xaml
+    headers: 
+      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://000.pcl2.server/"
+
+  - name: PCL GitHub 仪表盘
+    url: https://ddf.pcl-community.top/Custom.xaml
+    headers: 
+      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://000.pcl2.server/"
+
+  - name: Minecraft 更新摘要
+    url: https://raw.gitcode.com/ENC_Euphony/PCL-AI-Summary-HomePage/raw/master/Custom.xaml
+    headers: 
+      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://000.pcl2.server/"
+
+  - name: 今日新闻热点
+    url: https://pcl.wyc-w.top/index.xaml
+    headers: 
+      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://000.pcl2.server/"
+
+  - name: Minecraft 芝士站
+    url: https://www.xxag.top/mkss
+    headers: 
+      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://000.pcl2.server/"
+
+  - name: 整合包推荐引擎
+    url: https://qawsedrftgyhujiko.fun/pcl2/Custom.xaml
+    headers: 
+      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://000.pcl2.server/"
+      
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-
   baseUrl: /PCL-Homepage-Status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
@@ -24,6 +80,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
