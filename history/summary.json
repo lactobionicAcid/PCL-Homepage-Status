@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pclsub.sodamc.com.ico",
     "slug": "每日整合包推荐",
     "status": "down",
-    "uptime": "0.91%",
-    "uptimeDay": "0.91%",
-    "uptimeWeek": "0.91%",
-    "uptimeMonth": "0.91%",
-    "uptimeYear": "0.91%",
+    "uptime": "0.36%",
+    "uptimeDay": "0.36%",
+    "uptimeWeek": "0.36%",
+    "uptimeMonth": "0.36%",
+    "uptimeYear": "0.36%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-15": 116
+      "2026-05-16": 172,
+      "2026-05-15": 127
     }
   },
   {
@@ -79,18 +80,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/raw.gitcode.com.ico",
     "slug": "PCL新功能说明书",
     "status": "down",
-    "uptime": "0.25%",
-    "uptimeDay": "0.25%",
-    "uptimeWeek": "0.25%",
-    "uptimeMonth": "0.25%",
-    "uptimeYear": "0.25%",
+    "uptime": "60.33%",
+    "uptimeDay": "60.33%",
+    "uptimeWeek": "60.33%",
+    "uptimeMonth": "60.33%",
+    "uptimeYear": "60.33%",
     "time": 1577,
     "timeDay": 1577,
     "timeWeek": 1577,
     "timeMonth": 1577,
     "timeYear": 1577,
     "dailyMinutesDown": {
-      "2026-05-15": 116
+      "2026-05-15": 118
     }
   },
   {
@@ -135,18 +136,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/raw.gitcode.com.ico",
     "slug": "更新摘要",
     "status": "down",
-    "uptime": "0.22%",
-    "uptimeDay": "0.22%",
-    "uptimeWeek": "0.22%",
-    "uptimeMonth": "0.22%",
-    "uptimeYear": "0.22%",
+    "uptime": "60.43%",
+    "uptimeDay": "60.43%",
+    "uptimeWeek": "60.43%",
+    "uptimeMonth": "60.43%",
+    "uptimeYear": "60.43%",
     "time": 1196,
     "timeDay": 1196,
     "timeWeek": 1196,
     "timeMonth": 1196,
     "timeYear": 1196,
     "dailyMinutesDown": {
-      "2026-05-15": 115
+      "2026-05-15": 118
     }
   },
   {
