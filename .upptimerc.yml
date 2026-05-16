@@ -36,7 +36,9 @@ sites:
     headers: 
       - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
       - "Referer: http://000.pcl2.server/"
-      - "Host: raw.gitcode.com"
+    expectedStatusCodes:
+      - 200
+      - 418
 
   - name: 杂志主页
     slug: 杂志主页
@@ -58,7 +60,9 @@ sites:
     headers: 
       - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
       - "Referer: http://000.pcl2.server/"
-      - "Host: raw.gitcode.com"
+    expectedStatusCodes:
+      - 200
+      - 418
 
   - name: 今日新闻热点
     slug: 今日新闻热点
@@ -87,7 +91,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: "PCL 主页状态"
   introTitle: "PCL 主页状态"
-  introMessage: "本仓库基于开源库 [**Upptime**](https://github.com/upptime/upptime) 构建。<br/> **对于使用 GitCode 托管的主页，本仓库可能无法准确检测其访问状态。**由于未知原因，使用 GitHub CLI 向 GitCode 发送请求时可能会返回 HTTP 418，导致误判为无法访问。"
+  introMessage: "本仓库基于 [**Upptime**](https://github.com/upptime/upptime) 项目构建，用于简单地监视 PCL 启动器的主页访问状态。<br/> **对于使用 GitCode 托管的主页，本仓库无法准确检测其访问状态。**由于未知原因，使用 GitHub CLI 向 GitCode 发送请求时可能会返回 HTTP 418。"
   navbar:
     - title: 主页
       href: /
