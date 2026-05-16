@@ -87,7 +87,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: "PCL 主页状态"
   introTitle: "PCL 主页状态"
-  introMessage: "本仓库基于开源库 **[Upptime](https://github.com/upptime/upptime) **构建。<br/> **对于使用 GitCode 托管的主页，本仓库可能无法准确检测其访问状态。**由于未知原因，使用 GitHub CLI 向 GitCode 发送请求时可能会返回 HTTP 418，导致误判为无法访问。"
+  introMessage: "本仓库基于开源库 [**Upptime**](https://github.com/upptime/upptime) 构建。<br/> **对于使用 GitCode 托管的主页，本仓库可能无法准确检测其访问状态。**由于未知原因，使用 GitHub CLI 向 GitCode 发送请求时可能会返回 HTTP 418，导致误判为无法访问。"
   navbar:
     - title: 主页
       href: /
@@ -178,7 +178,7 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/30 * * * *"
+  uptime: "*/5 * * * *"
 
 
 user-agent: lactobionicAcid
