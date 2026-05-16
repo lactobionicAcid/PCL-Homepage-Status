@@ -2,7 +2,8 @@
 
 本仓库基于 [Upptime](https://github.com/upptime/upptime) 项目构建，用于简单地监视 PCL 启动器的主页访问状态。
 
-**⚠ 对于使用 GitCode 托管的主页，本仓库可能无法准确检测其访问状态。** 由于未知原因，使用 GitHub CLI 向 GitCode 发送请求时 _可能_ 会返回 HTTP 418。*现在加了特判，418 也算上线…… =。=*
+**⚠ 对于使用 GitCode 托管的主页，本仓库无法准确检测其访问状态。** 由于未知原因，使用 GitHub CLI 向 GitCode 发送请求时 _可能_ 会返回 HTTP 418。<br/>
+*现在加了特判，418 也算上线…… =。=*
 
 [![Uptime CI](https://github.com/lactobionicAcid/PCL-Homepage-Status/workflows/Uptime%20CI/badge.svg)](https://github.com/lactobionicAcid/PCL-Homepage-Status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/lactobionicAcid/PCL-Homepage-Status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/lactobionicAcid/PCL-Homepage-Status/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -34,10 +35,10 @@
 
 ## 🕒 请求频率
 
-~~上下线检测：5 分钟 / 次<br/>
-访问延迟检测：6 小时 / 次~~
+*~~上下线检测：5 分钟 / 次？~~ <br/>
+访问延迟检测：6 小时 / 次?*
 
-请求频率视 GitHub CLI 拥堵程度在 5 分钟 ~ **1 小时** / 次 不等。
+请求频率视 GitHub CLI 拥堵程度，实际频率在 **1 小时** / 次 左右。
 
 ## 📄 License
 
