@@ -32,6 +32,10 @@
 
 [**网页视图 →**](https://lactobionicAcid.github.io/PCL-Homepage-Status)
 
+## 🕒 请求频率
+上下线检测：30 分钟 / 次<br/>
+访问延迟检测：6 小时 / 次
+
 ## 📄 License
 
 - 技术提供: [Upptime](https://github.com/upptime/upptime)
