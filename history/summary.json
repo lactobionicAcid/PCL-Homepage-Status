@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pclsub.sodamc.com.ico",
     "slug": "4",
     "status": "down",
-    "uptime": "70.76%",
-    "uptimeDay": "70.76%",
-    "uptimeWeek": "70.76%",
-    "uptimeMonth": "70.76%",
-    "uptimeYear": "70.76%",
+    "uptime": "64.18%",
+    "uptimeDay": "64.18%",
+    "uptimeWeek": "64.18%",
+    "uptimeMonth": "64.18%",
+    "uptimeYear": "64.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-17": 0
+      "2026-05-17": 1
     }
   },
   {
