@@ -2,36 +2,36 @@ owner: lactobionicAcid
 repo: PCL-Homepage-Status
 
 sites:
-  - name: Minecraft 新闻
-    slug: case-2
+  - name: "[2] Minecraft 新闻"
+    #slug: case-2
     url: https://mcnews.meloong.com
     headers: 
       - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
       - "Referer: http://000.pcl2.server/"
 
-  - name: 每日整合包推荐
-    slug: case-4
+  - name: "[4] 每日整合包推荐"
+    #slug: case-4
     url: https://pclsub.sodamc.com/
     headers: 
       - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
       - "Referer: http://000.pcl2.server/"
 
-  - name: Minecraft 皮肤推荐
-    slug: case-5
+  - name: "[5] Minecraft 皮肤推荐"
+    #slug: case-5
     url: https://forgepixel.com/pcl_sub_file
     headers: 
       - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
       - "Referer: http://000.pcl2.server/"
 
-  - name: OpenBMCLAPI 仪表盘 Lite
-    slug: case-6
+  - name: "[6] OpenBMCLAPI 仪表盘 Lite"
+    #slug: case-6
     url: https://pcl-bmcl.milu.ink/
     headers: 
       - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
       - "Referer: http://000.pcl2.server/"
 
-  - name: PCL 新功能说明书
-    slug: case-9
+  - name: "[9] PCL 新功能说明书"
+    #slug: case-9
     url: https://raw.gitcode.com/WForst-Breeze/WhatsNewPCL/raw/main/Custom.xaml
     headers: 
       - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
@@ -40,22 +40,22 @@ sites:
       - 200
       - 418
 
-  - name: 杂志主页
-    slug: case-11
+  - name: "[11] 杂志主页"
+    #slug: case-11
     url: http://118.195.192.193:26995/d/magazine-homepage-pcl/Custom.xaml
     headers: 
       - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
       - "Referer: http://000.pcl2.server/"
 
-  - name: PCL GitHub 仪表盘
-    slug: case-12
+  - name: "[12] PCL GitHub 仪表盘"
+    #slug: case-12
     url: https://ddf.pcl-community.top/Custom.xaml
     headers: 
       - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
       - "Referer: http://000.pcl2.server/"
 
-  - name: Minecraft 更新摘要
-    slug: case-13
+  - name: "[13] Minecraft 更新摘要"
+    #slug: case-13
     url: https://raw.gitcode.com/ENC_Euphony/PCL-AI-Summary-HomePage/raw/master/Custom.xaml
     headers: 
       - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
@@ -64,22 +64,22 @@ sites:
       - 200
       - 418
 
-  - name: 今日新闻热点
-    slug: case-14
+  - name: "[14] 今日新闻热点"
+    #slug: case-14
     url: https://pcl.wyc-w.top/index.xaml
     headers: 
       - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
       - "Referer: http://000.pcl2.server/"
 
-  - name: Minecraft 芝士站
-    slug: case-15
+  - name: "[15] Minecraft 芝士站"
+    #slug: case-15
     url: https://www.xxag.top/mkss
     headers: 
       - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
       - "Referer: http://000.pcl2.server/"
 
-  - name: 整合包推荐引擎
-    slug: case-16
+  - name: "[16] 整合包推荐引擎"
+    #slug: case-16
     url: https://qawsedrftgyhujiko.fun/pcl2/Custom.xaml
     headers: 
       - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
