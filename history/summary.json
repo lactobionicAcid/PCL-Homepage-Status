@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcnews.meloong.com.ico",
     "slug": "2-minecraft",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 1442,
     "timeDay": 1285,
     "timeWeek": 1423,
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pclsub.sodamc.com.ico",
     "slug": "4",
     "status": "down",
-    "uptime": "1.28%",
+    "uptime": "1.27%",
     "uptimeDay": "13.34%",
     "uptimeWeek": "1.91%",
-    "uptimeMonth": "1.28%",
-    "uptimeYear": "1.28%",
+    "uptimeMonth": "1.27%",
+    "uptimeYear": "1.27%",
     "time": 1861,
     "timeDay": 1861,
     "timeWeek": 1861,
@@ -47,7 +47,7 @@
       "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 568,
-      "2026-05-28": 83
+      "2026-05-28": 214
     }
   },
   {
@@ -202,11 +202,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qawsedrftgyhujiko.fun.ico",
     "slug": "16",
     "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptime": "98.94%",
+    "uptimeDay": "90.92%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "98.94%",
     "time": 444,
     "timeDay": 249,
     "timeWeek": 439,
@@ -214,7 +214,7 @@
     "timeYear": 444,
     "dailyMinutesDown": {
       "2026-05-25": 30,
-      "2026-05-28": 0
+      "2026-05-28": 131
     }
   }
 ]
