@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pclsub.sodamc.com.ico",
     "slug": "4",
     "status": "down",
-    "uptime": "3.47%",
+    "uptime": "3.46%",
     "uptimeDay": "10.62%",
     "uptimeWeek": "6.81%",
-    "uptimeMonth": "3.47%",
-    "uptimeYear": "3.47%",
+    "uptimeMonth": "3.46%",
+    "uptimeYear": "3.46%",
     "time": 2036,
     "timeDay": 2814,
     "timeWeek": 2244,
@@ -59,7 +59,7 @@
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
-      "2026-06-08": 180
+      "2026-06-08": 238
     }
   },
   {
@@ -124,11 +124,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/118.195.192.193.ico",
     "slug": "11",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.64%",
+    "uptimeDay": "93.49%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
     "time": 1171,
     "timeDay": 1264,
     "timeWeek": 1084,
@@ -137,7 +137,7 @@
     "dailyMinutesDown": {
       "2026-06-06": 19,
       "2026-06-07": 35,
-      "2026-06-08": 0
+      "2026-06-08": 59
     }
   },
   {
