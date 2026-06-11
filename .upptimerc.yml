@@ -101,7 +101,6 @@ status-website:
 
 i18n:
   activeIncidents: 活动事件
-  allSystemsOperational: 所有系统都可以正常运行
   incidentReport: "事件 #$NUMBER 报告 →"
   activeIncidentSummary: 在 $DATE 打开，有 $POSTS 个帖子
   incidentTitle: 事件 $NUMBER 的详细信息
@@ -170,9 +169,10 @@ i18n:
   uptimeMonth: "30 天的正常运行时间"
   uptimeYear: "1 年的正常运行时间"
   liveStatusHtmlComment: "<！ -实时状态- >"
+  allSystemsOperational: 🟩 全部正常
   degradedPerformance: "🟨 部分访问缓慢"
-  completeOutage: "🟥 全部无法访问"
   partialOutage: "🟧 部分无法访问"
+  completeOutage: "🟥 全部无法访问"
 
 
 workflowSchedule:
