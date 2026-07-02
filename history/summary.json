@@ -4,22 +4,23 @@
     "url": "https://mcnews.meloong.com",
     "icon": "https://icons.duckduckgo.com/ip3/mcnews.meloong.com.ico",
     "slug": "2-minecraft",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
     "time": 1745,
     "timeDay": 1936,
     "timeWeek": 2069,
-    "timeMonth": 1844,
+    "timeMonth": 1850,
     "timeYear": 1745,
     "dailyMinutesDown": {
       "2026-05-19": 103,
       "2026-06-05": 33,
       "2026-06-20": 93,
-      "2026-07-01": 77
+      "2026-07-01": 77,
+      "2026-07-02": 5
     }
   },
   {
@@ -27,12 +28,12 @@
     "url": "https://pclsub.sodamc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pclsub.sodamc.com.ico",
     "slug": "4",
-    "status": "up",
-    "uptime": "34.15%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "34.32%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.28%",
-    "uptimeMonth": "51.00%",
-    "uptimeYear": "34.15%",
+    "uptimeMonth": "51.39%",
+    "uptimeYear": "34.32%",
     "time": 1961,
     "timeDay": 1935,
     "timeWeek": 1848,
@@ -73,7 +74,8 @@
       "2026-06-15": 1440,
       "2026-06-18": 505,
       "2026-06-20": 88,
-      "2026-07-01": 72
+      "2026-07-01": 72,
+      "2026-07-02": 0
     }
   },
   {
@@ -90,7 +92,7 @@
     "time": 2368,
     "timeDay": 2088,
     "timeWeek": 2044,
-    "timeMonth": 2261,
+    "timeMonth": 2267,
     "timeYear": 2368,
     "dailyMinutesDown": {}
   },
@@ -108,7 +110,7 @@
     "time": 4071,
     "timeDay": 3964,
     "timeWeek": 4168,
-    "timeMonth": 4363,
+    "timeMonth": 4292,
     "timeYear": 4071,
     "dailyMinutesDown": {
       "2026-05-18": 30,
@@ -130,7 +132,7 @@
     "time": 1609,
     "timeDay": 1554,
     "timeWeek": 1767,
-    "timeMonth": 1625,
+    "timeMonth": 1630,
     "timeYear": 1609,
     "dailyMinutesDown": {}
   },
@@ -148,7 +150,7 @@
     "time": 1136,
     "timeDay": 979,
     "timeWeek": 1067,
-    "timeMonth": 1105,
+    "timeMonth": 1099,
     "timeYear": 1136,
     "dailyMinutesDown": {
       "2026-06-06": 19,
@@ -170,7 +172,7 @@
     "time": 341,
     "timeDay": 431,
     "timeWeek": 441,
-    "timeMonth": 353,
+    "timeMonth": 355,
     "timeYear": 341,
     "dailyMinutesDown": {}
   },
@@ -188,7 +190,7 @@
     "time": 1510,
     "timeDay": 1706,
     "timeWeek": 1724,
-    "timeMonth": 1538,
+    "timeMonth": 1541,
     "timeYear": 1510,
     "dailyMinutesDown": {}
   },
@@ -206,7 +208,7 @@
     "time": 239,
     "timeDay": 223,
     "timeWeek": 197,
-    "timeMonth": 217,
+    "timeMonth": 218,
     "timeYear": 239,
     "dailyMinutesDown": {}
   },
@@ -224,7 +226,7 @@
     "time": 2255,
     "timeDay": 2192,
     "timeWeek": 2237,
-    "timeMonth": 2223,
+    "timeMonth": 2225,
     "timeYear": 2255,
     "dailyMinutesDown": {}
   },
@@ -242,7 +244,7 @@
     "time": 509,
     "timeDay": 751,
     "timeWeek": 747,
-    "timeMonth": 546,
+    "timeMonth": 547,
     "timeYear": 509,
     "dailyMinutesDown": {
       "2026-05-25": 30,
@@ -255,18 +257,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pbp.kaphia.qzz.io.ico",
     "slug": "17-bangumi",
     "status": "down",
-    "uptime": "31.17%",
-    "uptimeDay": "31.17%",
-    "uptimeWeek": "31.17%",
-    "uptimeMonth": "31.17%",
-    "uptimeYear": "31.17%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 92,
     "timeDay": 92,
     "timeWeek": 92,
     "timeMonth": 92,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2026-07-02": 0
+      "2026-07-02": 174
     }
   }
 ]
