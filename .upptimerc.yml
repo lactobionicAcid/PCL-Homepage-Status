@@ -99,7 +99,7 @@ sites:
       - "Referer: http://000.pcl2.server/"
 
   - name: "[17] Bangumi 番剧主页"
-    url: https://pbp.kaphia.qzz.io
+    url: https://bangumi.p.kaphia.qzz.io
     headers: 
       - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
       - "Referer: http://000.pcl2.server/"
