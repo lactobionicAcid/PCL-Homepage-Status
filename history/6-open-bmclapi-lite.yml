@@ -1,7 +1,7 @@
 url: https://pcl-bmcl.milu.ink/
-status: up
-code: 200
-responseTime: 2336
-lastUpdated: 2026-07-12T08:17:13.862Z
+status: down
+code: 500
+responseTime: 11360
+lastUpdated: 2026-07-12T13:20:00.495Z
 startTime: 2026-05-17T14:32:04.843Z
 generator: Upptime <https://github.com/upptime/upptime>
