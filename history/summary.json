@@ -4,17 +4,17 @@
     "url": "https://mcnews.meloong.com",
     "icon": "https://icons.duckduckgo.com/ip3/mcnews.meloong.com.ico",
     "slug": "2-minecraft",
-    "status": "down",
-    "uptime": "99.31%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.31%",
-    "time": 1773,
-    "timeDay": 2794,
-    "timeWeek": 1591,
-    "timeMonth": 1871,
-    "timeYear": 1773,
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "99.29%",
+    "time": 1774,
+    "timeDay": 2665,
+    "timeWeek": 1616,
+    "timeMonth": 1874,
+    "timeYear": 1774,
     "dailyMinutesDown": {
       "2026-05-19": 103,
       "2026-06-05": 33,
@@ -24,7 +24,7 @@
       "2026-07-05": 84,
       "2026-07-11": 72,
       "2026-07-14": 168,
-      "2026-07-23": 5
+      "2026-07-23": 30
     }
   },
   {
@@ -32,17 +32,17 @@
     "url": "https://pclsub.sodamc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pclsub.sodamc.com.ico",
     "slug": "4",
-    "status": "down",
-    "uptime": "54.22%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.09%",
-    "uptimeYear": "54.22%",
-    "time": 1977,
-    "timeDay": 2127,
-    "timeWeek": 2147,
-    "timeMonth": 1949,
-    "timeYear": 1977,
+    "status": "up",
+    "uptime": "54.20%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "54.20%",
+    "time": 1980,
+    "timeDay": 2221,
+    "timeWeek": 2160,
+    "timeMonth": 1953,
+    "timeYear": 1980,
     "dailyMinutesDown": {
       "2026-05-27": 1248,
       "2026-05-26": 1440,
@@ -83,7 +83,7 @@
       "2026-07-05": 79,
       "2026-07-11": 67,
       "2026-07-14": 159,
-      "2026-07-23": 1
+      "2026-07-23": 25
     }
   },
   {
@@ -112,11 +112,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pcl-bmcl.milu.ink.ico",
     "slug": "6-open-bmclapi-lite",
     "status": "down",
-    "uptime": "96.33%",
-    "uptimeDay": "17.87%",
-    "uptimeWeek": "80.00%",
-    "uptimeMonth": "92.20%",
-    "uptimeYear": "96.33%",
+    "uptime": "96.30%",
+    "uptimeDay": "16.16%",
+    "uptimeWeek": "79.75%",
+    "uptimeMonth": "92.14%",
+    "uptimeYear": "96.30%",
     "time": 4222,
     "timeDay": 511,
     "timeWeek": 3922,
@@ -136,7 +136,7 @@
       "2026-07-16": 227,
       "2026-07-17": 536,
       "2026-07-22": 734,
-      "2026-07-23": 520
+      "2026-07-23": 545
     }
   },
   {
