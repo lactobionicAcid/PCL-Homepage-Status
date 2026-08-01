@@ -53,7 +53,7 @@ sites:
       - 200
       - 418
 
-#  - name: [10] OpenMCIM Dashboard
+#  - name: [10] OpenMCIM 仪表盘
 #    url: https://files.mcimirror.top/PCL
 #    headers: 
 #      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
@@ -100,6 +100,18 @@ sites:
 
   - name: "[17] Bangumi 番剧主页"
     url: https://bangumi.p.kaphia.qzz.io
+    headers: 
+      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://000.pcl2.server/"
+
+  - name: "[18] Bilibili 热门"
+    url: https://bilibili.p.kaphia.qzz.io
+    headers: 
+      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://000.pcl2.server/"
+
+  - name: "[19] Music 云音乐热门"
+    url: https://cloudmusic.p.kaphia.qzz.io
     headers: 
       - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
       - "Referer: http://000.pcl2.server/"
