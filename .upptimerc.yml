@@ -5,50 +5,50 @@ sites:
   - name: "[2] Minecraft 新闻"
     url: https://mcnews.meloong.com
     headers: 
-      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
-      - "Referer: http://000.pcl2.server/"
+      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://412.pcl2.server/"
 
 #  - name: "[3] 简单主页"
 #    url: https://pclhomeplazaoss.lingyunawa.top:26994/d/Homepages/MFn233/Custom.xaml
 #    headers: 
-#      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
-#      - "Referer: http://000.pcl2.server/"
+#      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+#      - "Referer: http://412.pcl2.server/"
 
   - name: "[4] 每日整合包推荐"
     url: https://pclsub.sodamc.com/
     headers: 
-      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
-      - "Referer: http://000.pcl2.server/"
+      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://412.pcl2.server/"
 
   - name: "[5] Minecraft 皮肤推荐"
     url: https://forgepixel.com/pcl_sub_file
     headers: 
-      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
-      - "Referer: http://000.pcl2.server/"
+      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://412.pcl2.server/"
 
   - name: "[6] OpenBMCLAPI 仪表盘 Lite"
     url: https://pcl-bmcl.milu.ink/
     headers: 
-      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
-      - "Referer: http://000.pcl2.server/"
+      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://412.pcl2.server/"
 
 #  - name: "[7] PCL 主页市场"
 #    url: https://pclhomeplazaoss.lingyunawa.top:26994/p/Homepages/Homepage.Market/Custom.xaml
 #    headers: 
-#      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
-#      - "Referer: http://000.pcl2.server/"
+#      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+#      - "Referer: http://412.pcl2.server/"
 
 #  - name: "[8] PCL 更新日志"
 #    url: https://pclhomeplazaoss.lingyunawa.top:26994/d/Homepages/Joker2184/UpdateHomepage.xaml
 #    headers: 
-#      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
-#      - "Referer: http://000.pcl2.server/"
+#      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+#      - "Referer: http://412.pcl2.server/"
 
   - name: "[9] PCL 新功能说明书"
     url: https://raw.gitcode.com/WForst-Breeze/WhatsNewPCL/raw/main/Custom.xaml
     headers: 
-      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
-      - "Referer: http://000.pcl2.server/"
+      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://412.pcl2.server/"
     expectedStatusCodes:
       - 200
       - 418
@@ -56,26 +56,26 @@ sites:
 #  - name: [10] OpenMCIM 仪表盘
 #    url: https://files.mcimirror.top/PCL
 #    headers: 
-#      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
-#      - "Referer: http://000.pcl2.server/"
+#      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+#      - "Referer: http://412.pcl2.server/"
 
   - name: "[11] 杂志主页"
-    url: http://118.195.192.193:26995/d/magazine-homepage-pcl/Custom.xaml
+    url: https://gh-proxy.com/https://github.com/Neclyon/Magazine-Homepage-PCL/raw/main/output/Custom.xaml
     headers: 
-      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
-      - "Referer: http://000.pcl2.server/"
+      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://412.pcl2.server/"
 
   - name: "[12] PCL GitHub 仪表盘"
     url: https://ddf.pcl-community.top/Custom.xaml
     headers: 
-      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
-      - "Referer: http://000.pcl2.server/"
+      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://412.pcl2.server/"
 
   - name: "[13] Minecraft 更新摘要"
     url: https://raw.gitcode.com/ENC_Euphony/PCL-AI-Summary-HomePage/raw/master/Custom.xaml
     headers: 
-      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
-      - "Referer: http://000.pcl2.server/"
+      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://412.pcl2.server/"
     expectedStatusCodes:
       - 200
       - 418
@@ -83,38 +83,69 @@ sites:
   - name: "[14] 今日新闻热点"
     url: https://pcl.wyc-w.top/index.xaml
     headers: 
-      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
-      - "Referer: http://000.pcl2.server/"
+      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://412.pcl2.server/"
 
   - name: "[15] Minecraft 芝士站"
-    url: https://www.xxag.top/mkss
+    url: https://mkss-services.awaeric.xyz
     headers: 
-      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
-      - "Referer: http://000.pcl2.server/"
+      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://412.pcl2.server/"
 
   - name: "[16] 整合包推荐引擎"
     url: https://qawsedrftgyhujiko.fun/pcl2/Custom.xaml
     headers: 
-      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
-      - "Referer: http://000.pcl2.server/"
+      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://412.pcl2.server/"
 
   - name: "[17] Bangumi 番剧主页"
-    url: https://bangumi.p.kaphia.qzz.io
+    url: https://bangumi.p.kaphia.top
     headers: 
-      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
-      - "Referer: http://000.pcl2.server/"
+      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://412.pcl2.server/"
 
   - name: "[18] Bilibili 热门"
-    url: https://bilibili.p.kaphia.qzz.io
+    url: https://bilibili.p.kaphia.top
     headers: 
-      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
-      - "Referer: http://000.pcl2.server/"
+      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://412.pcl2.server/"
 
   - name: "[19] Music 云音乐热门"
-    url: https://cloudmusic.p.kaphia.qzz.io
+    url: https://cloudmusic.p.kaphia.top
     headers: 
-      - "User-Agent: PCL2/0.0.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
-      - "Referer: http://000.pcl2.server/"
+      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://412.pcl2.server/"
+
+  - name: "[20] 模组推荐"
+    url: https://g-fish.dpdns.org/download/ModPage.xaml
+    headers: 
+      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://412.pcl2.server/"
+
+  - name: "[21] 每日游戏推荐"
+    url: https://pcl.xn--9iq209asnop94b.top/download/GamePage.xaml
+    headers: 
+      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://412.pcl2.server/"
+
+  - name: "[22] Wallpaper 每日壁纸"
+    url: https://wallpaper.p.kaphia.top
+    headers: 
+      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://412.pcl2.server/"
+
+  - name: "[23] Weather 天气预报"
+    # 主页可变，此处固定为北京天气
+    url: https://weather-p.kaphia.top/101010100.xaml
+    headers: 
+      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://412.pcl2.server/"
+
+  - name: "[24] 新一代狗屁王大杂烩主页"
+    url: https://end.g-fish.dpdns.org/Custom.xaml
+    headers: 
+      - "User-Agent: PCL2/2.14.0.0 Mozilla/5.0 AppleWebKit/537.36 Chrome/63.0.3239.132 Safari/537.36"
+      - "Referer: http://412.pcl2.server/"
 
 status-website:
   baseUrl: /PCL-Homepage-Status
